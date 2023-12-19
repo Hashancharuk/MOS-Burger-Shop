@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&family=Nunito:ital,wght@0,400;0,700;1,400&family=Poppins&family=Roboto+Condensed:wght@300;400&family=Roboto+Mono:wght@200;600&family=Roboto:wght@300;500;700&display=swap');
+html, body {
+    background-color: #000000 !important;
+}
+
+.container{
+background-color: aqua;
+}
+.card{
+    /* padding: 40%; */
+    margin-left: 20%;
+    margin-top: 10%;
+    text-align: center;
+}
+.row{
+    background-color: rgb(187, 219, 218);
+}
+#updateBtn{
+    left: 300px;
+}
+.mb-3{
+    font-family: "Roboto";
+    font-size: larger;
+    font-style: bold;
+    line-height: 10px;
+    margin-top: 1%;
+}
+.itemList{
+    margin-left:1%;
+    font-style: "Roboto";
+}
+.searchBar{
+    max-width: 300px;
+}
+#searchBar{
+    max-width: 300px;
+    background-color: aliceblue;
+}
+#barAndBtn{
+    padding-left: 24%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+.itemList{
+    padding-top: 1%;
+    padding-left: 3%;
+    font-family: "Roboto";
+}
+#searchItemBar{
+    padding-left: 10%;
+}
+.table{
+
+    content: justify;
+    max-width: 1240px;
+    align-content: center;
+    margin: auto;
+}

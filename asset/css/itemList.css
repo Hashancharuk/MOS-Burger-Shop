@@ -1,0 +1,43 @@
+body {
+    background-color: rgba(206, 184, 184, 0.295);
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+    background-image: url(../img/MOS\ Burgercroped\ .jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.form-select{
+    margin: 60px;
+    width: 1250px;
+    height: 50px;
+    align-content: center;
+    background-color: rgba(119, 20, 50, 0.842);
+    border-radius: 20px;
+    font-size: large;
+    text-align: center;
+}
+.accordion {
+    padding: 30px;
+    max-width: auto; /* Set maximum width */
+
+}
+.col{
+    text-align: center;
+    height: fit-content;
+}
+.card-img-top{
+    height: 150px;
+}
+.card-img-top1{
+    height: 175px;
+}
+.card-img-top2{
+    height: 175px;
+}
+.card-img-top3{
+    height: 175px;
+}
+.card-img-topp{
+    height: 175px;
+}
